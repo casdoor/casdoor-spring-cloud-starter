@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "casdoor",
+      "type": "org.casbin.casdoor.config.CasdoorConfiguration",
+      "sourceType": "org.casbin.casdoor.config.CasdoorConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "casdoor.application-name",
+      "type": "java.lang.String",
+      "sourceType": "org.casbin.casdoor.config.CasdoorConfiguration"
+    },
+    {
+      "name": "casdoor.client-id",
+      "type": "java.lang.String",
+      "sourceType": "org.casbin.casdoor.config.CasdoorConfiguration"
+    },
+    {
+      "name": "casdoor.client-secret",
+      "type": "java.lang.String",
+      "sourceType": "org.casbin.casdoor.config.CasdoorConfiguration"
+    },
+    {
+      "name": "casdoor.endpoint",
+      "type": "java.lang.String",
+      "sourceType": "org.casbin.casdoor.config.CasdoorConfiguration"
+    },
+    {
+      "name": "casdoor.jwt-public-key",
+      "type": "java.lang.String",
+      "sourceType": "org.casbin.casdoor.config.CasdoorConfiguration"
+    },
+    {
+      "name": "casdoor.organization-name",
+      "type": "java.lang.String",
+      "sourceType": "org.casbin.casdoor.config.CasdoorConfiguration"
+    }
+  ],
+  "hints": []
+}
